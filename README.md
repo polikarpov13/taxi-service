@@ -1,4 +1,4 @@
-﻿# Taxi-Service
+﻿# Call a Taxi Online
 ## Project description:
 A simple web application that supports authentication, registration and other CRUD operations.
 It can be used if you want to simulate a small taxi company and
